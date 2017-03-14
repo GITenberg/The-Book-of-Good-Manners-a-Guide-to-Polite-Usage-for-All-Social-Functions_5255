@@ -1,5 +1,8 @@
 _repo: The-Book-of-Good-Manners-a-Guide-to-Polite-Usage-for-All-Social-Functions_5255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Walter Cox
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1752'
     url: http://www.gutenberg.org/2009/agents/1752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5255#The-Book-of-Good-Manners-a-Guide-to-Polite-Usage-for-All-Social-Functions
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text

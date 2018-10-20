@@ -1,5 +1,5 @@
 _repo: The-Book-of-Good-Manners-a-Guide-to-Polite-Usage-for-All-Social-Functions_5255
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Etiquette'
 - !lcc 'BJ'
+- GITenberg
 title: The Book of Good Manners; a Guide to Polite Usage for All Social Functions
 url: http://www.gutenberg.org/ebooks/5255
